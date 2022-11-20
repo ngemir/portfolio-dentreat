@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000px"
+   height="1000px"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="logoDentist.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview82"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.74564394"
+     inkscape:cx="376.85547"
+     inkscape:cy="470.73406"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2622" />
+  </sodipodi:namedview>
+  <defs
+     id="defs77" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#00dada;stroke:none;stroke-width:9.9375;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;fill-opacity:1"
+       id="path2730"
+       cx="500"
+       cy="500"
+       r="495.03125" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 231.46736,917.1526 101.92532,500 c 0,0 -68.397253,-164.71933 16.09348,-245.18669 84.49073,-80.46736 532.4257,89.85522 532.4257,89.85522 L 386.24334,244.08433 c 0,0 352.37427,-114.12972 469.39293,-2.68225 117.01866,111.44748 -114.68085,693.02875 -114.68085,693.02875 0,0 -115.12865,67.30607 -254.36665,67.30607 -139.238,0 -255.12141,-84.5843 -255.12141,-84.5843 z"
+       id="path3798"
+       sodipodi:nodetypes="ccsccscsc" />
+    <ellipse
+       style="fill:#00dada;fill-opacity:1;stroke:none;stroke-width:10.8797;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path4366"
+       cx="646.12537"
+       cy="-500"
+       rx="38.892559"
+       ry="67.726692"
+       transform="scale(1,-1)" />
+    <ellipse
+       style="fill:#00dada;fill-opacity:1;stroke:none;stroke-width:10.8797;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="ellipse4368"
+       cx="340.6452"
+       cy="-500"
+       rx="38.892559"
+       ry="67.726692"
+       transform="scale(1,-1)" />
+    <path
+       style="fill:#00dada;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 685.01791,677.26695 c 0,0 -152.04633,118.37813 -319.80074,46.93929 -25.42114,-10.82569 -69.1775,-44.25704 -69.1775,-44.25704 0,0 35.01652,39.95214 60.78228,51.63322 177.00643,80.24702 328.19596,-54.31547 328.19596,-54.31547 z"
+       id="path4504"
+       sodipodi:nodetypes="cscsc" />
+  </g>
+</svg>
